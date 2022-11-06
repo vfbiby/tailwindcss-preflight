@@ -12,24 +12,36 @@
 Using <a href="https://www.npmjs.com/">npm</a>:
 
 ```properties
-npm install tailwindcss-preflight
+npm install tailwindcss-base
 ```
 Using <a href="https://yarnpkg.com/">yarn</a>:
 
 ```properties
-yarn add tailwindcss-preflight
+yarn add tailwindcss-base
+```
+
+## different from tailwindcss base
+```css
+button,
+[type='button'],
+[type='reset'],
+[type='submit'] {
+  -webkit-appearance: button; /* 1 */
+  /*background-color: transparent; /* 2 */
+  background-image: none; /* 2 */
+}
 ```
 
 ## 📖 Usage
 
 Using <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/@import">CSS imports</a>:
 ```css
-@import 'tailwindcss-preflight/preflightcss.css';
+@import 'tailwindcss-base/preflightcss.css';
 ```
 
 Using <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import">ES6 imports</a>:
 ```typescript
-import 'tailwindcss-preflight';
+import 'tailwindcss-base';
 ```
 
 ## 🌐 CDN
