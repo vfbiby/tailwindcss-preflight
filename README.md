@@ -1,7 +1,8 @@
+# A fixed material ui button conflict and opinionated alternative to CSS resets
 <div align="center">
 	<img height="140px" src="docs/logo.svg" alt="preflight">
 	<br>
-	“An opinionated set of base styles”
+	“A fixed material ui button conflict and opinionated alternative to CSS resets”
 	<br>
 	<i>- <a href="https://tailwindcss.com/docs/preflight">Tailwind.com</a></i>
 </div>

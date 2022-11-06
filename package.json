@@ -1,18 +1,19 @@
 {
   "name": "tailwindcss-preflight",
   "version": "1.0.1",
-  "description": "A modern and opinionated alternative to CSS resets",
+  "description": "A fixed material ui button conflict and opinionated alternative to CSS resets",
   "license": "MIT",
   "style": "preflight.css",
-  "repository": "https://github.com/grievouz/tailwindcss-preflight.git",
-  "bugs": "https://github.com/grievouz/tailwindcss-preflight/issues",
-  "homepage": "https://github.com/grievouz/tailwindcss-preflight#readme",
+  "repository": "https://github.com/vfbiby/tailwindcss-preflight.git",
+  "bugs": "https://github.com/vfbiby/tailwindcss-preflight/issues",
+  "homepage": "https://github.com/vfbiby/tailwindcss-preflight#readme",
   "files": [
     "LICENSE",
     "LICENSE-preflight.txt",
     "preflight.css"
   ],
   "keywords": [
+    "material ui button",
     "normalize",
     "css",
     "reset",
