@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-base",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A fixed material ui button conflict and opinionated alternative to CSS resets",
   "license": "MIT",
   "style": "preflight.css",
